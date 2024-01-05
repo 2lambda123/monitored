@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/monitored](https://github.com/2lambda123/monitored)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|12/29/23 <br/>Report generated|
+|23<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -177,9 +177,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -187,6 +187,8 @@ Full tech stack [here](/techstack.md)
 |[@commitlint/config-conventional](https://www.npmjs.com/@commitlint/config-conventional)|v13.2.0|03/15/22|Bar Miliavsky |MIT|N/A|
 |[@types/jest](https://www.npmjs.com/@types/jest)|v27.0.3|03/15/22|Bar Miliavsky |MIT|N/A|
 |[@types/node](https://www.npmjs.com/@types/node)|v17.0.21|08/15/21|korengal |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|08/15/21|korengal |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v11.2.6|08/15/21|korengal |MIT|N/A|
 |[prom-client](https://www.npmjs.com/prom-client)|v13.2.0|03/15/22|Bar Miliavsky |Apache-2.0|N/A|
 |[ts-jest](https://www.npmjs.com/ts-jest)|v27.1.3|03/15/22|Bar Miliavsky |MIT|N/A|
 |[ts-node](https://www.npmjs.com/ts-node)|v10.4.0|08/15/21|korengal |MIT|N/A|
